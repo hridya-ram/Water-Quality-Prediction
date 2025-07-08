@@ -1,27 +1,32 @@
-# Water-Quality-Prediction
-Project done as a part of Edunet-AICTE internship. 
+# Water Quality Prediction
+This project is done as a part of Edunet-AICTE internship, sponsored by Shell. 
 
-# Overview
-This project aims at accurate prediction of Water Quality Metrics and helps in early detection of pollution. MultiOutputRegressor with RandomForestRegressor is used for implementation. 
+## Project Overview
 
-# Technologies Used
+This project aims at accurate prediction of Water Quality Metrics and helps in early detection of pollution. MultiOutputRegressor with RandomForestRegressor is used for implementation.
 
-  Python 3.12
-  
-  Pandas, NumPy – Data handling
-  
-  Scikit-learn – Machine learning model and evaluation
-  
-  Matplotlib, Seaborn – Data visualization
-  
-  Jupyter Notebook – Interactive experimentation
+## Technologies Used
 
-# Internship Details
+- Python 3.10+
+- Pandas, NumPy – Data handling and preprocessing
+- Scikit-learn – Model training and evaluation
+- Matplotlib, Seaborn – Visualisation
+- Jupyter Notebook – Interactive experimentation
+- VS Code and Streamlit – Application interface and deployment
 
-Internship Type: AICTE Virtual Internship - Edunet Foundation
+## Dataset
 
-Sponsor: Shell
+- **Source**: Water quality dataset from the Southern Bug River, Ukraine
+- **Target Metrics**:
+- NH₄ (Ammonium)
+- BSK5 (Biochemical Oxygen Demand)
+- Suspended Solids
+- O₂ (Dissolved Oxygen)
+- NO₃, NO₂, SO₄, PO₄, Cl⁻ (Chemical Indicators)
 
-Duration: June 2025 (1 month)
+## Internship Details
 
-Focus Area: Machine Learning in Environmental Monitoring
+- Internship Type: AICTE Virtual Internship - Edunet Foundation
+- Sponsor: Shell
+- Duration: June 2025 (1 month)
+- Focus Area: Machine Learning in Environmental Monitoring
