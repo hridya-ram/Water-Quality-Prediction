@@ -18,11 +18,11 @@ This project aims at accurate prediction of Water Quality Metrics and helps in e
 
 - **Source**: Water quality dataset from the Southern Bug River, Ukraine
 - **Target Metrics**:
-- NH₄ (Ammonium)
-- BSK5 (Biochemical Oxygen Demand)
-- Suspended Solids
-- O₂ (Dissolved Oxygen)
-- NO₃, NO₂, SO₄, PO₄, Cl⁻ (Chemical Indicators)
+  - NH₄ (Ammonium)
+  - BSK5 (Biochemical Oxygen Demand)
+  - Suspended Solids
+  - O₂ (Dissolved Oxygen)
+  - NO₃, NO₂, SO₄, PO₄, Cl⁻ (Chemical Indicators)
 
 ## Internship Details
 
